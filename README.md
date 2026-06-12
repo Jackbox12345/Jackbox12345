@@ -31,6 +31,6 @@ A personal developer portfolio built with modern JavaScript frontend tools.
 
 ## Contact
 
-- LinkedIn: Add your LinkedIn link here
-- Portfolio: Add your portfolio link here
-- Email: Add your email here
+- LinkedIn: https://www.linkedin.com/in/christian-lapitan-5383b3299
+- Portfolio: NA
+- Email: lapitanchristian258@gmail.com
