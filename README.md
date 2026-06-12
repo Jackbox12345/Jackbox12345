@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi, I'm Christian Lapitan 👋
 
-<!--
-**Jackbox12345/Jackbox12345** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Full Stack Developer focused on building practical web applications using Laravel, React, TypeScript, JavaScript, PHP, Tailwind CSS, and MySQL.
 
-Here are some ideas to get you started:
+I enjoy creating systems that solve real workplace problems, especially dashboards, admin tools, employee systems, ticketing systems, and internal business applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+
+**Frontend:** React, TypeScript, JavaScript, HTML, CSS, Tailwind CSS  
+**Backend:** Laravel, PHP  
+**Database:** MySQL  
+**Tools:** Git, GitHub, REST API, AJAX, jQuery  
+
+## Featured Projects
+
+### Ticket Admin Dashboard
+A ticket management/admin dashboard built with React, TypeScript, and modern frontend tooling.
+
+### Laravel Projects
+Backend-focused projects using Laravel, PHP, MySQL, and MVC structure.
+
+### Portfolio Website
+A personal developer portfolio built with modern JavaScript frontend tools.
+
+## Currently Learning
+
+- Advanced React
+- Laravel API development
+- System design basics
+- Cybersecurity fundamentals
+
+## Contact
+
+- LinkedIn: Add your LinkedIn link here
+- Portfolio: Add your portfolio link here
+- Email: Add your email here
