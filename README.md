@@ -6,7 +6,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Jackbox12345&label=PROFILE%20VIEWS&color=2563eb&style=for-the-badge)
 
-🌐 Portfolio: **Coming Soon**
+🌐**Portfolio:** [devchris1.vercel.app](https://devchris1.vercel.app/)
 
 </div>
 
@@ -83,7 +83,7 @@
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christian-lapitan-5383b3299)
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-COMING%20SOON-111827?style=for-the-badge&logo=vercel&logoColor=white)](#)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-DEVCHRIS1-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://devchris1.vercel.app/)
 [![Email](https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lapitanchristian258@gmail.com)
 
 </div>
